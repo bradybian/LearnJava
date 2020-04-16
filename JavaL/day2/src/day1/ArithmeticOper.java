@@ -1,4 +1,4 @@
-package day1;
+ package day1;
 /*
  * 运算符
  * 1、算术运算符
