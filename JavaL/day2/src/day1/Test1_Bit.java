@@ -30,7 +30,7 @@ public class Test1_Bit {
 		 * 32的二进制 0010 0000
 		 * 32 >> 4 0000 0010
 		 */
-		System.out.println(32 << 4);//等价于32除以2的4次方  32/16 =2
+		System.out.println(32 >> 4);//等价于32除以2的4次方  32/16 =2
 		
 		/*
 		 * -32二进制：
@@ -45,7 +45,9 @@ public class Test1_Bit {
 		 */
 		System.out.println(-32 << 4);
 		
+		System.out.println(-32 >>> 4);
 		
+		System.out.println(32 & 25);
 	}
 
 }
