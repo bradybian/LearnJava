@@ -7,7 +7,7 @@ package day1;
  * 整个表达式包含三个部分
  * 运算规则：
  * 如果条件表达式成立，就取结果表达式1的值，不成立，取结果表达式2的值
- *  
+ *    
  */
 
 public class Test1_Condition {
